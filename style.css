@@ -62,7 +62,7 @@ body {
 
 form {
     width: 60%;
-    margin: 0 auto; /* Centra el form dentro del login-box */
+    margin: 0 auto;
 }
 
 h2 {
@@ -74,6 +74,7 @@ h2 {
 p {
     margin-bottom: 10px;
     font-size: 20px;
+    font-weight: normal;
 }
 
 input {
@@ -83,7 +84,7 @@ input {
     border-radius: 20px;
     outline: none;
     background-color: #D9D9D9;
-    margin: 0; /* Asegúrate de que no haya margen adicional */
+    margin: 0; 
 }
 
 button {
@@ -96,6 +97,7 @@ button {
     cursor: pointer;
     font-size: 16px;
     font-family: "Marcellus", serif;
+    font-weight: normal;
 }
 
 button:hover {
