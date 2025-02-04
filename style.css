@@ -138,3 +138,7 @@ button:hover {
 * {
     box-sizing: border-box;
 }
+
+.errorField {
+    border: 1px solid red;
+}
